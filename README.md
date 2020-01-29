@@ -1,2 +1,2 @@
 # git-workshop
-git use practice
+print("hello!")
